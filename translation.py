@@ -469,4 +469,3 @@ def evaluateAndShowAttention(input_sentence):
 
 
 evaluateAndShowAttention("i am happy")
-evaluateAndShowAttention("i am 18 years old")
